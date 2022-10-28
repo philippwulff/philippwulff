@@ -1,5 +1,4 @@
 ## 👋 Hi, I’m Philipp 
-```Student and Robotics Engineer```
 - 👀 I’m interested in AI, Computer Vision and Robots
 - 🌱 I’m currently learning C++, Reactjs
 
